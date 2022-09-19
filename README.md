@@ -5,7 +5,7 @@
 ---
 
 ### :man_technologist: About Me:
-Hello there, I'm <b>Malhaar</b>. I'm a student who likes to code and build stuff <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+Hello there, I'm <b>Malhaar</b>. I'm a student who likes to code and build stuff 
 
 - Full stack app and web developer
 
